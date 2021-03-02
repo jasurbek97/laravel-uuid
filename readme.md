@@ -25,7 +25,7 @@ Laravel 4.*? use [version 1](https://github.com/jasurbek97/laravel-uuid/tree/1.5
 In Laravel 5.5 laravel-uuid will install via the new package discovery feature so you only need to add the package to your composer.json file
 
 ```shell
-composer require "jasurbek97/laravel-uuid:^2.0"
+composer require "jasurbek97/laravel-uuid:^4.0"
 ```
 
 after installation you should see
