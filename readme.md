@@ -25,13 +25,13 @@ Laravel 4.*? use [version 1](https://github.com/webpatser/laravel-uuid/tree/1.5)
 In Laravel 5.5 laravel-uuid will install via the new package discovery feature so you only need to add the package to your composer.json file
 
 ```shell
-composer require "webpatser/laravel-uuid:^3.0"
+composer require "jasurbek97/laravel-uuid:^2.0"
 ```
 
 after installation you should see
 
 ```shell
-Discovered Package: webpatser/laravel-uuid
+Discovered Package: jasurbek97/laravel-uuid
 ```
 
 and you are ready to go
