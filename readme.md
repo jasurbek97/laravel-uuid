@@ -1,10 +1,10 @@
 # Laravel Uuid
 
-[![Total Downloads](https://poser.pugx.org/webpatser/laravel-uuid/downloads.svg)](https://packagist.org/packages/webpatser/laravel-uuid)
-[![Build Status](https://secure.travis-ci.org/webpatser/laravel-uuid.png?branch=master)](http://travis-ci.org/webpatser/laravel-uuid)
-[![codecov.io](http://codecov.io/github/webpatser/laravel-uuid/coverage.svg?branch=master)](http://codecov.io/github/webpatser/laravel-uuid?branch=master)
-[![Latest Stable Version](https://poser.pugx.org/webpatser/laravel-uuid/v/stable.svg)](https://packagist.org/packages/webpatser/laravel-uuid)
-[![Licence](https://poser.pugx.org/webpatser/laravel-uuid/license.svg)](https://packagist.org/packages/webpatser/laravel-uuid)
+[![Total Downloads](https://poser.pugx.org/jasurbek97/laravel-uuid/downloads.svg)](https://packagist.org/packages/jasurbek97/laravel-uuid)
+[![Build Status](https://secure.travis-ci.org/jasurbek97/laravel-uuid.png?branch=master)](http://travis-ci.org/jasurbek97/laravel-uuid)
+[![codecov.io](http://codecov.io/github/jasurbek97/laravel-uuid/coverage.svg?branch=master)](http://codecov.io/github/jasurbek97/laravel-uuid?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/jasurbek97/laravel-uuid/v/stable.svg)](https://packagist.org/packages/jasurbek97/laravel-uuid)
+[![Licence](https://poser.pugx.org/jasurbek97/laravel-uuid/license.svg)](https://packagist.org/packages/jasurbek97/laravel-uuid)
 
 Laravel package to generate and to validate a universally unique identifier (UUID) according to the RFC 4122 standard. Support for version 1, 3, 4 and 5 UUIDs are built-in.
 
@@ -16,9 +16,9 @@ For older Laravel or PHP versions use older versions; see below...
 ## What's new in 3.*
 Laravel-uuid is now refactored for Laravel 5.5. It has the same requirements so that means PHP 7. Laravel package auto-discovery is enabled, and you can now use the UUID validation. Validation examples are below and in the tests. 
 
-Laravel 5.0, 5.1, 5.2, 5.3 and 5.4? use  [version 2](https://github.com/webpatser/laravel-uuid/tree/2.1.1)
+Laravel 5.0, 5.1, 5.2, 5.3 and 5.4? use  [version 2](https://github.com/jasurbek97/laravel-uuid/tree/2.1.1)
 
-Laravel 4.*? use [version 1](https://github.com/webpatser/laravel-uuid/tree/1.5)
+Laravel 4.*? use [version 1](https://github.com/jasurbek97/laravel-uuid/tree/1.5)
 
 ## Installation
 
